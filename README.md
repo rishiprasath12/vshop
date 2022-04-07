@@ -1,6 +1,6 @@
 ﻿# VSHOP eCommerce Platform
 <p>eCommerce platform built with the MERN stack & Redux.</p><br/>
-<img src="uploads/Screenshot(90).png" />
+<img src="uploads/Screenshot (90).png" />
 <h3>Features</h3>
 <hr/>
 <ul>
@@ -51,7 +51,7 @@ Sample User Logins
 admin@gmail.com (Admin)
 12345
 
-vijay@gmail.com (Customer)
+rishi@gmail.com (Customer)
 12345
 
 //Sample sandbox account
